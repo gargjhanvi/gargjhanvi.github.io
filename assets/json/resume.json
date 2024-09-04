@@ -69,6 +69,7 @@
      {
       "name": "Daiichi Sankyo Inc",
       "position": "Data & Statistical Science Intern",
+      "url": "https://example.com",
       "startDate": "2024-05",
       "endDate": "2024-08",
       "summary": "Worked on Bayesian Dynamic Borrowing to demonstrate enhanced clinical effectiveness of a breast cancer drug.",
@@ -77,6 +78,7 @@
     {
       "name": "Los Alamos National laboratory",
       "position": "Statistical Consultant",
+      "url": "https://example.com",
       "startDate": "2023-08",
       "endDate": "Now",
       "summary": "Analyzing vibrational data with machine learning to detect and spatially locate damage in micro reactors.",
@@ -85,6 +87,7 @@
     {
       "name": "Teaching Assistant",
       "position": "Texas A&M University, College Station",
+      "url": "https://example.com",
       "startDate": "2021-08",
       "endDate": "Now",
       "summary": "Teaching assistant for Probability for Statistics, Mathematical Statistics I, Mathematical Statistics II, Introduction to Linear Model, Multivariate Analysis and Statistical Learning Theory, Statistical Methods in Finance.",
@@ -92,6 +95,7 @@
     {
       "name": "Instructor",
       "position": "Texas A&M University, College Station",
+      "url": "https://example.com",
       "startDate": "2022-07",
       "endDate": "2022-08",
       "summary": "Taught Elementary Statistical Inference course for Undergraduate students."
@@ -99,13 +103,15 @@
     {
       "name": "Sixth Energy Technologies",
       "position": "Data Science Intern",
+      "url": "https://example.com",
       "startDate": "2018-05",
       "endDate": "2018-07",
       "summary": "Analyzed building management system data to assess operational efficiency and energy consumption patterns. Also analyzed fuel tank data for refills, thefts, and leaks, utilizing exponential smoothing and ARIMA models for predictions."
     },
     {
-      "name": "Indian Institute of Management, Ahmedabad ",
+      "name": "Indian Institute of Management, Ahmedabad",
       "position": "Data Science Intern",
+      "url": "https://example.com",
       "startDate": "2017-11",
       "endDate": "2018-01",
       "summary": "Conducted a survey and analyzed the data regarding the adoption and usage of electric vehicles in India."
