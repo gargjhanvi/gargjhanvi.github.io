@@ -210,11 +210,26 @@
   ],
   "projects": [
     {
-      "name": "Branch-and-Cut for Linear Programming",
-      "summary": "Research Experience for Undergraduates (REU) at Texas Tech University.",
-      "startDate": "2018-07",
-      "endDate": "2017-06",
-      "highlights": ["worked under the advisory of Dr. Ismael R. de-Farias.", "focused on exploring the Branch-and-Cut method for linear programming with multiple-choice constraints", "applied CPLEX and Gurobi to implement and evaluate the algorithms developed"]
+      "name": "Sampling from Multimodal Distributions using tempering idea",
+      "summary": "Develop faster non-convex optimization and sampling algorithms with improved convergence, applicable in generative AI for sampling images and texts similar to training datasets.",
+      "startDate": "2023",
+      "endDate": "Now",
+      "highlights": ["advised by Dr. Quan Zhou and Dr Krishnakumar Balasubramanian."]
+    },
+    {
+      "name": "Hierarchical Bayesian for Metadata-Based Multi-Task Bandits ",
+      "summary": "Enhance recommendation systems using a Bayesian Hierarchical Model with weighted profile metadata.",
+      "startDate": "2023",
+      "endDate": "Now",
+      "highlights": ["advised by  Dr. Dileep Kalathil."]
+    },
+    {
+      "name": "SSLLabelGuide - R Package ",
+      "summary": "R Package to implement a semi supervised learning algorithm (The code is available in GitHub).",
+      "startDate": "2022",
+      "endDate": "Now",
+      "highlights": ["advised by  Dr. Irina Gaynanova."]
     }
   ]
 }
+
