@@ -8,13 +8,7 @@
       "city": "College Station",
       "countryCode": "US",
       "region": "Texas"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "l_eandroMaia",
-        "url": "https://twitter.com/l_eandroMaia"
-      }
+    }
     ]
   },
   "education": [
@@ -50,7 +44,7 @@
   ],
   "publications": [
     {
-      "name": "Soft-constrained Schr{\"o}dinger Bridge: a Stochastic Control Approach",
+      "name": "Soft-constrained Schrödinger Bridge: a Stochastic Control Approach",
       "publisher": "International Conference on Artificial Intelligence and Statistics",
       "releaseDate": "2024",
       "url": "https://proceedings.mlr.press/v238/garg24a.html",
@@ -211,21 +205,21 @@
       "summary": "Develop faster non-convex optimization and sampling algorithms with improved convergence, applicable in generative AI for sampling images and texts similar to training datasets.",
       "startDate": "2023",
       "endDate": "Now",
-      "highlights": ["worked under the advisory of Dr. Quan Zhou and Dr Krishnakumar Balasubramanian."]
+      "highlights": ["advised by Dr. Quan Zhou and Dr Krishnakumar Balasubramanian."]
     },
       {
       "name": "Hierarchical Bayesian for Metadata-Based Multi-Task  Bandits ",
       "summary": "Enhance recommendation systems using a Bayesian Hierarchical Model with weighted profile metadata.",
       "startDate": "2023",
       "endDate": "Now",
-      "highlights": ["worked under the advisory of Dr. Dileep Kalathil."]
+      "highlights": ["advised by  Dr. Dileep Kalathil."]
     },
     {
       "name": "SSLLabelGuide - R Package ",
       "summary": "R Package to implement a semi supervised learning algorithm (The code is available in GitHub).",
       "startDate": "2022",
       "endDate": "Now",
-      "highlights": ["worked under the advisory of Dr. Irina Gaynanova."]
+      "highlights": ["advised by  Dr. Irina Gaynanova."]
     }
   ]
 }
