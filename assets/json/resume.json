@@ -114,14 +114,35 @@
   ],
   "volunteer": [
     {
-      "organization": "Agape Project",
-      "location": "Amazonas, Brazil",
-      "position": "Tutor",
-      "startDate": "2018",
-      "endDate": "2019",
-      "summary": "This social project located in the Brazilian Amazonia aims to support low-income students by providing daily classes and food."
+      "organization": "SIAM Journal on Control and Optimization",
+      "position": "Referee",
+      "startDate": "2023-12",
+      "endDate": "Now",
+      "summary": "Review papers for the journal."
+    },
+    {
+      "organization": "Texas A&M University, College Station",
+      "position": "Data Science Summer Camp",
+      "startDate": "2023-06",
+      "endDate": "2023-07",
+      "summary": "Led interactive sessions on data management and machine learning for high school students."
+    },
+    {
+      "organization": "Indian Statistical Institute, Kolkata",
+      "position": "Math Camp",
+      "startDate": "2019-01",
+      "endDate": "2019-02",
+      "summary": "Organized math camp for high school students."
+    },
+    {
+      "organization": "Indian Statistical Institute, Kolkata",
+      "position": "Student Mentor",
+      "startDate": "2017-08",
+      "endDate": "2021-05",
+      "summary": "Mentored students in topics including maintaing effective communication. aligning expectations, assessing understanding, addressing equity and inclusion, fostering independence."
     }
   ],
+
   "awards": [
     {
       "title": "International Mathematical Olympiad",
