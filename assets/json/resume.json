@@ -18,10 +18,9 @@
   },
    "education": [
     {
-      "institution": "Texas A&M University, Texas, U.S.",
+      "institution": "Texas A&M University, College Station, U.S.",
       "location": "U.S.",
-      "area": "Statistics",
-      "studyType": "Ph.D.",
+      "studyType": "Ph.D. in Statistics",
       "startDate": "2021",
       "endDate": "2025",
       "score": "10",
@@ -30,8 +29,7 @@
     {
       "institution": "Indian Statistical Institute, Kolkata",
       "location": "India",
-      "area": "Mathematics",
-      "studyType": "Masters",
+      "studyType": "Masters in Mathematics",
       "startDate": "2019",
       "endDate": "2021",
       "score": "10"
@@ -39,34 +37,33 @@
     {
       "institution": "Indian Statistical Institute, Kolkata",
       "location": "India",
-      "area": "Mathematics",
-      "studyType": "Bachelors",
+      "studyType": "Bachelors in Mathematics",
       "startDate": "2016",
       "endDate": "2019",
       "score": "10"
     }
   ],
-  "publications": [
+    "publications": [
     {
-      "name": "An Adaptive Proximal ADMM for Nonconvex Linearly-Constrained Composite Programs",
-      "publisher": "Mathematical Programming (Submitted)",
-      "releaseDate": "2024-07",
-      "url": "https://arxiv.org/abs/2407.09927",
-      "summary": "This paper develops an adaptive Proximal Alternating Direction Method of Multipliers (P-ADMM) for solving linearly-constrained, weakly convex, composite optimization problems."
+      "name": "Soft-constrained Schrödinger Bridge: a Stochastic Control Approach",
+      "publisher": "International Conference on Artificial Intelligence and Statistics",
+      "releaseDate": "2024",
+      "url": "https://proceedings.mlr.press/v238/garg24a.html",
+      "summary": "The soft-constrained Schrödinger bridge (SSB) is a generalization of the Schrödinger bridge problem, where the terminal distribution is allowed to differ from the target distribution but is penalized by the Kullback-Leibler divergence. This approach is applied to time series and used to develop robust generative diffusion models, with a score matching-based algorithm demonstrated on the MNIST dataset."
     },
     {
-      "name": "The Inexact Cyclic Block Proximal Gradient Method and Properties of Inexact Proximal Maps",
-      "publisher": "Journal of Optimization Theory and Applications",
-      "releaseDate": "2024-01",
-      "url": "https://rdcu.be/dMGet",
-      "summary": "This paper expands the cyclic block proximal gradient method for block separable composite minimization by allowing for inexactly computed gradients and pre-conditioned proximal maps."
+      "name": "A quickest detection problem with false negatives",
+      "publisher": "arXiv preprint arXiv:2210.01844",
+      "releaseDate": "2022",
+      "url": "https://arxiv.org/abs/2210.01844",
+      "summary": "The problem involves detecting a drift in a Brownian motion with false negatives and costs for inspections, formulated as an optimal multiple stopping problem equivalent to a recursive optimal stopping problem. By using free boundary methods, explicit formulas for the expected cost and optimal strategy are derived."
     },
     {
-      "name": "The Randomized Block Coordinate Descent Method in the Hölder Smooth Setting",
-      "publisher": "Optimization Letters (Conditionally Accepted)",
-      "releaseDate": "2024-06",
-      "url": "https://arxiv.org/abs/2403.08080",
-      "summary": "This work provides the first convergence analysis for the Randomized Block Coordinate Descent method for minimizing a function that is both Hölder smooth and block Hölder smooth."
+      "name": "Rapid measurement and statistical ranking of leaf drought tolerance capacity in cotton",
+      "publisher": "bioRxiv",
+      "releaseDate": "2023",
+      "url": "https://www.biorxiv.org/content/10.1101/2023.08.30.555618.abstract",
+      "summary": "This study evaluates leaf dry matter content (LDMC) as an effective and faster alternative to leaf osmotic potential (πo) for measuring cotton drought tolerance, develops a Bayesian model to rank drought tolerance, and finds a trade-off between drought tolerance and fiber yield/quality."
     }
   ],
   "work": [
