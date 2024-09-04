@@ -1,4 +1,4 @@
-- **AISTATS 2024** (Valencia, Spain): Soft-constrained Schr\"{o}dinger Bridge: a Stochastic Control
+- **AISTATS 2024** (Valencia, Spain): Soft-constrained Schrödinger Bridge: a Stochastic Control
 Approach
 
 - **SSP 2023** (Arizona, U.S.): A quickest detection problem with false negatives
