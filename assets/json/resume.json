@@ -34,7 +34,7 @@
       "studyType": "Masters",
       "startDate": "2019",
       "endDate": "2021",
-      "score": "10",
+      "score": "10"
     },
     {
       "institution": "Indian Statistical Institute, Kolkata",
@@ -43,8 +43,7 @@
       "studyType": "Bachelors",
       "startDate": "2016",
       "endDate": "2019",
-      "score": "10",
-      
+      "score": "10"
     }
   ],
   "publications": [
