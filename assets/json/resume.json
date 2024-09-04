@@ -18,7 +18,7 @@
   },
    "education": [
     {
-      "institution": "Texas A&M University, College Station, U.S.",
+      "institution": "Texas A&M University, College Station",
       "location": "U.S.",
       "studyType": "Ph.D. in Statistics",
       "startDate": "2021",
@@ -49,21 +49,21 @@
       "publisher": "International Conference on Artificial Intelligence and Statistics",
       "releaseDate": "2024",
       "url": "https://proceedings.mlr.press/v238/garg24a.html",
-      "summary": "The soft-constrained Schrödinger bridge (SSB) is a generalization of the Schrödinger bridge problem, where the terminal distribution is allowed to differ from the target distribution but is penalized by the Kullback-Leibler divergence. This approach is applied to time series and used to develop robust generative diffusion models, with a score matching-based algorithm demonstrated on the MNIST dataset."
+      "summary": "The soft-constrained Schrödinger bridge (SSB) is a generalization of the Schrödinger bridge problem, where the terminal distribution is allowed to differ from the target distribution but is penalized by the Kullback-Leibler divergence. This approach is used to develop robust generative diffusion models and is demonstrated on the MNIST dataset."
     },
     {
       "name": "A quickest detection problem with false negatives",
       "publisher": "arXiv preprint arXiv:2210.01844",
       "releaseDate": "2022",
       "url": "https://arxiv.org/abs/2210.01844",
-      "summary": "The problem involves detecting a drift in a Brownian motion with false negatives and costs for inspections, formulated as an optimal multiple stopping problem equivalent to a recursive optimal stopping problem. By using free boundary methods, explicit formulas for the expected cost and optimal strategy are derived."
+      "summary": "The problem involves detecting a drift in a Brownian motion with false negatives and costs for inspections. It is formulated as an optimal multiple stopping problem which is equivalent to a recursive optimal stopping problem. By using free boundary methods, explicit formulas for the expected cost and optimal strategy are derived."
     },
     {
       "name": "Rapid measurement and statistical ranking of leaf drought tolerance capacity in cotton",
       "publisher": "bioRxiv",
       "releaseDate": "2023",
       "url": "https://www.biorxiv.org/content/10.1101/2023.08.30.555618.abstract",
-      "summary": "This study evaluates leaf dry matter content (LDMC) as an effective and faster alternative to leaf osmotic potential (πo) for measuring cotton drought tolerance, develops a Bayesian model to rank drought tolerance, and finds a trade-off between drought tolerance and fiber yield/quality."
+      "summary": "This study evaluates leaf dry matter content as an effective and faster alternative to leaf osmotic potential for measuring cotton drought tolerance. We develop a Bayesian model to rank drought tolerance, and finds a trade-off between drought tolerance and fiber yield/quality."
     }
   ],
   "work": [
