@@ -1,32 +1,45 @@
 ---
 ---
 
+
 @string{aps = {American Physical Society,}}
 
 
+
 @inproceedings{garg2024soft,
-  title={Soft-constrained Schr{\"o}dinger Bridge: a Stochastic Control Approach},
-  author={Garg, Jhanvi and Zhang, Xianyang and Zhou, Quan},
-  booktitle={International Conference on Artificial Intelligence and Statistics},
-  pages={4429--4437},
-  year={2024},
-  organization={PMLR}
-}
-
-
-@article{de2022quickest,
-  title={A quickest detection problem with false negatives},
-  author={De Angelis, Tiziano and Garg, Jhanvi and Zhou, Quan},
-  journal={arXiv preprint arXiv:2210.01844},
-  year={2022}
+      abbr         = {AISTATS},
+      title        = {Soft-constrained Schrödinger Bridge: a Stochastic Control Approach},
+      journal      = {International Conference on Artificial Intelligence and Statistics},
+      author       = {Garg, Jhanvi and Zhang, Xianyang and Zhou, Quan},
+      year         = {2024},
+      url          = {https://proceedings.mlr.press/v238/garg24a.html},
+      bibtex_show  = {true},
+      abstract     = {Schrödinger bridge can be viewed as a continuous-time stochastic control problem where the goal is to find an optimally controlled diffusion process whose terminal distribution coincides with a pre-specified target distribution. We propose to generalize this problem by allowing the terminal distribution to differ from the target but penalizing the Kullback-Leibler divergence between the two distributions. We call this new control problem soft-constrained Schrödinger bridge (SSB). The main contribution of this work is a theoretical derivation of the solution to SSB, which shows that the terminal distribution of the optimally controlled process is a geometric mixture of the target and some other distribution. This result is further extended to a time series setting. One application is the development of robust generative diffusion models. We propose a score matching-based algorithm for sampling from geometric mixtures and showcase its use via a numerical example for the MNIST data set.},
+      selected     = {true}
 }
 
 
 @article{dong2023rapid,
-  title={Rapid measurement and statistical ranking of leaf drought tolerance capacity in cotton},
-  author={Dong, Xuejun and Mott, Dale A and Garg, Jhanvi and Zhou, Quan and Sunoj VS, John and McKnight, Benjamin M},
-  journal={bioRxiv},
-  pages={2023--08},
-  year={2023},
-  publisher={Cold Spring Harbor Laboratory}
+      abbr         = {bioRxiv},
+      title        = {Rapid measurement and statistical ranking of leaf drought tolerance capacity in cotton},
+      journal      = {bioRxiv},
+      author       = {Dong, Xuejun and Mott, Dale A and Garg, Jhanvi and Zhou, Quan and Sunoj VS, John and McKnight, Benjamin M},
+      year         = {2023},
+      url          = {https://www.biorxiv.org/content/10.1101/2023.08.30.555618v1.abstract},
+      bibtex_show  = {true},
+      abstract     = {Recent progress in ecological remote sensing calls for a more rapid measurement and a closer assessment of crop drought tolerance traits under field conditions. This study addresses three main questions: (1) If leaf dry matter content (LDMC) is equally effective in indicating cotton drought tolerance as leaf osmotic potential at full turgor (πo); (2) if drought tolerance is inversely related to fiber yield/quality in line with the leaf economics spectrum; and (3) if a reliable statistical model can be developed to rank cotton drought tolerance. The values of πo, along with those of LDMC, of 2736 leaves obtained from cotton variety trials conducted during 2020-2022 in both dryland and irrigated regimes were measured using osmometry. The relationships between πo and LDMC, as well as those between traits and lint yield and fiber quality indices, were investigated using regression analysis. A Bayesian hierarchical linear model was developed to rank cotton drought tolerance based on differences (or adjustments) in πo and LDMC between dryland and irrigated sites. LDMC was not only shown to be an alternate and equally effective drought tolerance trait compared with πo obtained from the widely accepted osmometry method, its use is also estimated to lead to a tenfold increase in measuring speed. A stronger drought tolerance capacity of the tested cotton varieties correlated with a lower lint yield and quality, which is generally consistent with the prediction of the leaf economics spectrum. The drought tolerance rankings using the Bayesian hierarchical model help divide the selected 17 cotton varieties into three groups: (a) more-drought tolerant, (b) less-drought tolerant, and (c) intermediate. The ranking results are interpreted using field-measured data of root distribution and diurnal leaf gas exchange from selected cotton varieties. Our work provides new opportunities for a more rapid measurement and an unambiguous ranking of drought tolerance capacity for crop genotypes under various management regimes.},
+      selected     = {true}
 }
+
+@article{de2022quickest,
+  abbr         = {arXiv},
+  bibtex_show  = {true},
+  author       = {De Angelis, Tiziano and Garg, Jhanvi and Zhou, Quan},
+  title        = {A quickest detection problem with false negatives},
+  journal      = {arXiv preprint arXiv:2210.01844},
+  year         = {2022},
+  url          = {https://arxiv.org/abs/2210.01844},
+  abstract     = {We formulate and solve a quickest detection problem with false negatives. A standard Brownian motion acquires a drift at an independent exponential random time which is not directly observable. Based on the observation in continuous time of the sample path of the process, an optimiser must detect the drift as quickly as possible after it has appeared. The optimiser can inspect the system multiple times upon payment of a fixed cost per inspection. If a test is performed on the system before the drift has appeared then, naturally, the test will return a negative outcome. However, if a test is performed after the drift has appeared, then the test may fail to detect it and return a false negative with probability ϵ∈(0,1). The optimisation ends when the drift is eventually detected. The problem is formulated mathematically as an optimal multiple stopping problem and it is shown to be equivalent to a recursive optimal stopping problem. Exploiting such connection and free boundary methods we find explicit formulae for the expected cost and the optimal strategy. We also show that when ϵ=0 our expected cost coincides with the one in Shiryaev's classical optimal detection problem.},
+  selected     = {true}
+}
+
