@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-01-22
+date: 2024-01-19
 inline: true
 related_posts: false
 ---
 
-Paper accepted at **Journal of Optimization Theory and Applications (JOTA)**: [The Inexact Cyclic Block Proximal Gradient Method and Properties of Inexact Proximal Maps.](https://link.springer.com/article/10.1007/s10957-024-02404-7)
+Paper accepted at **AISTATS 2024**: [Soft-constrained Schr{\"o}dinger Bridge: a Stochastic Control Approach.](https://proceedings.mlr.press/v238/garg24a.html)
