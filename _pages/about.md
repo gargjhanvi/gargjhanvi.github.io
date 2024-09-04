@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 Blocker 405E</p>
-    <p>123 155 Ireland Street</p>
+    <p>Blocker 405E</p>
+    <p>155 Ireland Street</p>
     <p>College Station, Texas 77843</p>
 
 news: true # includes a list of news items
