@@ -66,48 +66,50 @@
       "summary": "This study evaluates leaf dry matter content as an effective and faster alternative to leaf osmotic potential for measuring cotton drought tolerance. We develop a Bayesian model to rank drought tolerance, and finds a trade-off between drought tolerance and fiber yield/quality."
     }
   ],
-  "work": [
+   "work": [
     {
-      "name": "Sandia National Laboratories",
-      "position": "Graduate Researcher",
-      "url": "https://example.com",
+      "name": "Daiichi Sankyo Inc",
+      "position": "Data & Statistical Science Intern",
       "startDate": "2024-05",
       "endDate": "2024-08",
-      "summary": "Worked on Inexact Proximal Map applied to an Inexact Trust-Region Method.",
-      "highlights": ["Mentors: Dr. Drew P. Kouri and Dr. Robert Baraldi."]
+      "summary": "Worked on Bayesian Dynamic Borrowing to demonstrate enhanced clinical effectiveness of a breast cancer drug.",
+      "highlights": ["Mentors: Dr. Prathiba Batley and Dr. Arthur Allingol"]
     },
     {
-      "name": "Texas A&M University and Texas Tech University",
-      "position": "Research Assistant",
-      "url": "https://example.com",
-      "startDate": "2020",
+      "name": "Los Alamos National laboratory",
+      "position": "Statistical Consultant",
+      "startDate": "2023-08",
       "endDate": "Now",
-      "summary": "Working on multiple projects in large-scale optimization intended for publication in reputable optimization journals."
+      "summary": "Analyzing vibrational data with machine learning to detect and spatially locate damage in micro reactors.",
+      "highlights": ["Mentors: Dr. TJ Ulrich and Dr. Paul Geimer"]
     },
     {
       "name": "Teaching Assistant",
-      "position": "Texas Tech University",
-      "url": "https://example.com",
-      "startDate": "2023-01",
-      "endDate": "2023-05",
-      "summary": "Teaching assistant for “Probabilistic Operations Research” (IE3312).",
-      "highlights": ["Course taught by Dr. Ningji Wei."]
+      "position": "Texas A&M University, College Station",
+      "startDate": "2021-08",
+      "endDate": "Now",
+      "summary": "Teaching assistant for Probability for Statistics, Mathematical Statistics I, Mathematical Statistics II, Introduction to Linear Model, Multivariate Analysis and Statistical Learning Theory, Statistical Methods in Finance.",
     },
     {
-      "name": "Brazilian Army",
-      "position": "Captain",
-      "url": "https://example.com",
-      "startDate": "2018",
-      "endDate": "2019",
-      "summary": "Assigned to the Connected Amazon project."
+      "name": "Instructor",
+      "position": "Texas A&M University, College Station",
+      "startDate": "2022-07",
+      "endDate": "2022-08",
+      "summary": "Taught Elementary Statistical Inference course for Undergraduate students."
     },
     {
-      "name": "Institute of Pure and Applied Math (IMP)",
-      "position": "Programmer",
-      "url": "https://example.com",
-      "startDate": "2010",
-      "endDate": "2012",
-      "summary": "Part of “Petroleo Brasileiro S.A” (PETROBRAS) Real-Options group at IMPA."
+      "name": "Sixth Energy Technologies",
+      "position": "Data Science Intern",
+      "startDate": "2018-05",
+      "endDate": "2018-07",
+      "summary": "Analyzed building management system data to assess operational efficiency and energy consumption patterns. Also analyzed fuel tank data for refills, thefts, and leaks, utilizing exponential smoothing and ARIMA models for predictions."
+    },
+    {
+      "name": "Indian Institute of Management, Ahmedabad ",
+      "position": "Data Science Intern",
+      "startDate": "2017-11",
+      "endDate": "2018-01",
+      "summary": "Conducted a survey and analyzed the data regarding the adoption and usage of electric vehicles in India."
     }
   ],
   "volunteer": [
