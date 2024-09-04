@@ -3,28 +3,30 @@
   contents:
     - name: Name
       value: Jhanvi Kapoorchand Garg
-    - name: Languages
-      value: English, Hindi
+    - name: Email
+      value: gargjhanvi@tamu.edu
+    - name: Summary
+      value: PhD in Statistics at Texas A&M University, College Station
     - name: Research Interest
-      value: Stochastic Control and Optimal Stopping, Generative AI, Multimodal Sampling, Bayesian Modeling and Inference
+      value: Stochastic control and optimal stopping, generative AI, Markov chain Monte Carlo sampling, diffusion models, high-dimensional Bayesian inference
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: Texas A&M University, College Station
-      year: 2025
+      year: 2021-2025
       description:
         - Ph.D. in Statistics
         - Advisor: Dr. Quan Zhou
     - title: Masters
       institution: Indian Statistical Institue, Kolkata
-      year: 2021
+      year: 2019-2021
       description:
         - Mathematics
     - title: Bachelors
       institution: Indian Statistical Institue, Kolkata
-      year: 2019
+      year: 2016-019
       description:
         - Major: Mathematics
   
