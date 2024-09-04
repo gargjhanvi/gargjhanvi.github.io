@@ -1,5 +1,6 @@
 {
-  "basics": {
+  "basics": [
+    {
     "name": "Jhanvi K. Garg",
     "image": "",
     "email": "gargjhanvi@tamu.edu",
@@ -9,8 +10,7 @@
       "countryCode": "US",
       "region": "Texas"
     }
-    ]
-  },
+    ],
   "education": [
     {
       "institution": "Texas A&M University, Texas, U.S.",
