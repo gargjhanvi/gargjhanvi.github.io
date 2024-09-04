@@ -1,200 +1,231 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jhanvi K. Garg",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "gargjhanvi@tamu.edu",
+    "summary": "Ph.D. student at Texas A&M University",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "College Station",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "l_eandroMaia",
+        "url": "https://twitter.com/l_eandroMaia"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Texas A&M University, Texas, U.S.",
+      "location": "U.S.",
+      "area": "Department of Statistics",
+      "studyType": "Ph.D.",
+      "startDate": "2021",
+      "endDate": "2025",
       "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "courses": ["Advisor: Dr. Quan Zhou"]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "institution": "Indian Statistical Institute, Kolkata",
+      "location": "India",
+      "area": "Mathematics",
+      "studyType": "Masters",
+      "startDate": "2019",
+      "endDate": "2021",
+      "score": "10",
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "Indian Statistical Institute, Kolkata",
+      "location": "India",
+      "area": "Mathematics",
+      "studyType": "Bachelors",
+      "startDate": "2016",
+      "endDate": "2019",
+      "score": "10",
+      
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Soft-constrained Schr{\"o}dinger Bridge: a Stochastic Control Approach",
+      "publisher": "International Conference on Artificial Intelligence and Statistics",
+      "releaseDate": "2024",
+      "url": "https://proceedings.mlr.press/v238/garg24a.html",
+      "summary": "The soft-constrained Schrödinger bridge (SSB) is a generalization of the Schrödinger bridge problem, where the terminal distribution is allowed to differ from the target distribution but is penalized by the Kullback-Leibler divergence. This approach is applied to time series and used to develop robust generative diffusion models, with a score matching-based algorithm demonstrated on the MNIST dataset."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "A quickest detection problem with false negatives",
+      "publisher": "arXiv preprint arXiv:2210.01844",
+      "releaseDate": "2022",
+      "url": "https://arxiv.org/abs/2210.01844",
+      "summary": "The problem involves detecting a drift in a Brownian motion with false negatives and costs for inspections, formulated as an optimal multiple stopping problem equivalent to a recursive optimal stopping problem. By using free boundary methods, explicit formulas for the expected cost and optimal strategy are derived."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Rapid measurement and statistical ranking of leaf drought tolerance capacity in cotton",
+      "publisher": "bioRxiv",
+      "releaseDate": "2023",
+      "url": "https://www.biorxiv.org/content/10.1101/2023.08.30.555618.abstract",
+      "summary": "This study evaluates leaf dry matter content (LDMC) as an effective and faster alternative to leaf osmotic potential (πo) for measuring cotton drought tolerance, develops a Bayesian model to rank drought tolerance, and finds a trade-off between drought tolerance and fiber yield/quality."
+    }
+  ],
+  "work": [
+    {
+      "name": "Daiichi Sankyo Inc",
+      "position": "Data & Statistical Science Intern",
+      "startDate": "2024-05",
+      "endDate": "2024-08",
+      "summary": "Worked on Bayesian Dynamic Borrowing to demonstrate enhanced clinical effectiveness of a breast cancer drug.",
+      "highlights": ["Mentors: Dr. Prathiba Batley and Dr. Arthur Allingol"]
+    },
+    {
+      "name": "Los Alamos National laboratory",
+      "position": "Statistical Consultant",
+      "startDate": "2023-08",
+      "endDate": "Now",
+      "summary": "Analyzing vibrational data with machine learning to detect and spatially locate damage in micro reactors.",
+      "highlights": ["Mentors: Dr. TJ Ulrich and Dr. Paul Geimer"]
+    },
+    {
+      "name": "Teaching Assistant",
+      "position": "Texas A&M University, College Station",
+      "startDate": "2021-08",
+      "endDate": "Now",
+      "summary": "Teaching assistant for Probability for Statistics, Mathematical Statistics I, Mathematical Statistics II, Introduction to Linear Model, Multivariate Analysis and Statistical Learning Theory, Statistical Methods in Finance.",
+    },
+    {
+      "name": "Instructor",
+      "position": "Texas A&M University, College Station",
+      "startDate": "2022-07",
+      "endDate": "2022-08",
+      "summary": "Taught Elementary Statistical Inference course for Undergraduate students."
+    },
+    {
+      "name": "Sixth Energy Technologies",
+      "position": "Data Science Intern",
+      "startDate": "2018-05",
+      "endDate": "2018-07",
+      "summary": "Analyzed building management system data to assess operational efficiency and energy consumption patterns, and examined fuel tank data for refills, thefts, and leaks, utilizing exponential smoothing and ARIMA models for predictions."
+    },
+    {
+      "name": "Indian Institute of Management, Ahmedabad ",
+      "position": "Data Science Intern",
+      "startDate": "2017-11",
+      "endDate": "2018-01",
+      "summary": "Conducted a survey and analyzed the data regarding the adoption and usage of electric vehicles in India."
+    }
+  ],
+  "volunteer": [
+     {
+      "organization": "SIAM Journal on Control and Optimization",
+      "position": "Referee",
+      "startDate": "2023-12",
+      "endDate": "Now",
+      "summary": "Review papers for the journal."
+    },
+    {
+      "organization": "Texas A&M University, College Station",
+      "position": "Data Science Summer Camp",
+      "startDate": "2023-06",
+      "endDate": "2023-07",
+      "summary": "Led interactive sessions on data management and machine learning models for high school students."
+    },
+    {
+      "organization": "Indian Statistical Institute, Kolkata",
+      "position": "Math Camp",
+      "startDate": "2019-01",
+      "endDate": "2019-02",
+      "summary": "Organized math camp for high school students."
+    },
+    {
+      "organization": "Indian Statistical Institute, Kolkata",
+      "position": "Student Mentor",
+      "startDate": "2017-08",
+      "endDate": "2021-05",
+      "summary": "Mentored students in topics including maintaing effective communication. aligning expectations, assessing understanding, adressing equity and inclusion, fostering independence."
+    }
+  ],
+  "awards": [
+    { "organization": "Texas A&M University, College Station",
+      "title": "Lechner Graduate Grant",
+      "date": "2021",
+    },
+    { "organization": "Indian Statistical Institute, Kolkata",
+      "title": "Master's Scholarship",
+      "date": "2019",
+    },
+    { "organization": "Indian Statistical Institute, Kolkata",
+      "title": "Bachelor's Scholarship",
+      "date": "2016",
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Matlab, Python, C/C++, R, SAS, SQL "
+      ]
+    },
+    {
+      "name": "Technical Software",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "GitHub, Latex"
+      ]
+    },
+    {
+      "name": "Professional Skills ",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Machine Learning, Deep Learning, Reinforcement Learning, Mathematical/Statistical Modeling, Time Series, Optimization, Big Data Analytics, Data Visualization, Data Manipulation"
+      ]
+    },
+    {
+      "name": "Research Focus",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Stochastic Control and Optimal Stopping, Generative AI, Multimodal Sampling, Bayesian Modeling and Inference"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Hindi",
       "fluency": "Native speaker",
-      "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
     }
   ],
-  "interests": [
+"projects": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Sampling from Multimodal Distributions using tempering idea",
+      "summary": "Develop faster non-convex optimization and sampling algorithms with improved convergence, applicable in generative AI for sampling images and texts similar to training datasets.",
+      "startDate": "2023",
+      "endDate": "Now",
+      "highlights": ["worked under the advisory of Dr. Quan Zhou and Dr Krishnakumar Balasubramanian."]
+    },
+      {
+      "name": "Hierarchical Bayesian for Metadata-Based Multi-Task  Bandits ",
+      "summary": "Enhance recommendation systems using a Bayesian Hierarchical Model with weighted profile metadata.",
+      "startDate": "2023",
+      "endDate": "Now",
+      "highlights": ["worked under the advisory of Dr. Dileep Kalathil."]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "SSLLabelGuide - R Package ",
+      "summary": "R Package to implement a semi supervised learning algorithm (The code is available in GitHub).",
+      "startDate": "2022",
+      "endDate": "Now",
+      "highlights": ["worked under the advisory of Dr. Irina Gaynanova."]
     }
   ]
 }
