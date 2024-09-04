@@ -55,7 +55,7 @@
       "publisher": "arXiv preprint arXiv:2210.01844",
       "releaseDate": "2022",
       "url": "https://arxiv.org/abs/2210.01844",
-      "summary": "The problem involves detecting a drift in a Brownian motion with false negatives and costs for inspections. It is formulated as an optimal multiple stopping problem which is equivalent to a recursive optimal stopping problem. By using free boundary methods, explicit formulas for the expected cost and optimal strategy are derived."
+      "summary": "The problem involves detecting a drift in a Brownian motion with false negatives. It is formulated as an optimal multiple stopping problem which is equivalent to a recursive optimal stopping problem. By using free boundary methods, explicit formulas for the expected cost and optimal strategy are derived."
     },
     {
       "name": "Rapid measurement and statistical ranking of leaf drought tolerance capacity in cotton",
