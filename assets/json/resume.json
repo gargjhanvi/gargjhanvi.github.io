@@ -1,7 +1,6 @@
 {
-  "basics": [
-    {
-    "name": "Jhanvi K. Garg",
+  "basics": {
+    "name": "Jhanvi K.Garg",
     "image": "",
     "email": "gargjhanvi@tamu.edu",
     "summary": "Ph.D. student at Texas A&M University",
@@ -9,8 +8,15 @@
       "city": "College Station",
       "countryCode": "US",
       "region": "Texas"
-    }
-    ],
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "l_eandroMaia",
+        "url": "https://twitter.com/l_eandroMaia"
+      }
+    ]
+  },
   "education": [
     {
       "institution": "Texas A&M University, Texas, U.S.",
