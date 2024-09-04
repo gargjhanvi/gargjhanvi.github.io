@@ -153,11 +153,13 @@
       "title": "Lechner Graduate Grant",
       "date": "2021"
     },
-    { "organization": "Indian Statistical Institute, Kolkata",
+    { 
+      "organization": "Indian Statistical Institute, Kolkata",
       "title": "Master's Scholarship",
       "date": "2019"
     },
-    { "organization": "Indian Statistical Institute, Kolkata",
+    { 
+      "organization": "Indian Statistical Institute, Kolkata",
       "title": "Bachelor's Scholarship",
       "date": "2016"
     }
