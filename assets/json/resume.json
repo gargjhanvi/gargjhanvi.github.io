@@ -85,16 +85,16 @@
       "highlights": ["Mentors: Dr. TJ Ulrich and Dr. Paul Geimer"]
     },
     {
-      "name": "Teaching Assistant",
-      "position": "Texas A&M University, College Station",
+      "name": "Texas A&M University, College Station",
+      "position": "Teaching Assistant",
       "url": "https://example.com",
       "startDate": "2021-08",
       "endDate": "Now",
       "summary": "Teaching assistant for Probability for Statistics, Mathematical Statistics I, Mathematical Statistics II, Introduction to Linear Model, Multivariate Analysis and Statistical Learning Theory, Statistical Methods in Finance."
     },
     {
-      "name": "Instructor",
-      "position": "Texas A&M University, College Station",
+      "name": "Texas A&M University, College Station",
+      "position": "Instructor",
       "url": "https://example.com",
       "startDate": "2022-07",
       "endDate": "2022-08",
