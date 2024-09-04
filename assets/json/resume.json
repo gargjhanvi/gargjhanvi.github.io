@@ -149,10 +149,17 @@
   ],
   "awards": [
     {
-      "title": "International Mathematical Olympiad",
-      "date": "2005 & 2006",
-      "url": "https://www.imo-official.org/participant_r.aspx?id=8583",
-      "summary": "Bronze Medal in 2006 (Slovenia) and Honorable Mention in 2005 (Mexico)'"
+      "organization": "Texas A&M University, College Station",
+      "title": "Lechner Graduate Grant",
+      "date": "2021"
+    },
+    { "organization": "Indian Statistical Institute, Kolkata",
+      "title": "Master's Scholarship",
+      "date": "2019"
+    },
+    { "organization": "Indian Statistical Institute, Kolkata",
+      "title": "Bachelor's Scholarship",
+      "date": "2016"
     }
   ],
   "skills": [
